@@ -36,7 +36,7 @@ git clone https://github.com/seu_usuario/gridpics.git
 
 ## Autor
 
-Este projeto foi desenvolvido por [Rodrigo](https://github.com/Rodrigodossantos).
+Este projeto foi desenvolvido por [Rodrigo dos santos RGM 27644120](https://github.com/Rodrigodossantos).
 
 ## Licença
 
